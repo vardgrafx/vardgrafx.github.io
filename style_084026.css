@@ -1,0 +1,27 @@
+body {
+	background: #CCCCCC
+}
+
+h1 {
+	 text-align: center
+}
+
+p {
+	text-align: center;
+}
+
+#chatelier {
+width: 25%
+}
+
+#O {
+	 font-size: 18px;
+}
+
+strong {
+	color: red;
+}
+
+.creditos {
+	font-style: italic
+}
